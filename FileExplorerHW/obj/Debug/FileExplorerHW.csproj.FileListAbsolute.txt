@@ -1,0 +1,15 @@
+C:\Users\8\source\repos\FileExplorerHW\FileExplorerHW\bin\Debug\FileExplorerHW.exe.config
+C:\Users\8\source\repos\FileExplorerHW\FileExplorerHW\bin\Debug\FileExplorerHW.exe
+C:\Users\8\source\repos\FileExplorerHW\FileExplorerHW\bin\Debug\FileExplorerHW.pdb
+C:\Users\8\source\repos\FileExplorerHW\FileExplorerHW\obj\Debug\FileExplorerHW.csprojResolveAssemblyReference.cache
+C:\Users\8\source\repos\FileExplorerHW\FileExplorerHW\obj\Debug\MainWindow.g.cs
+C:\Users\8\source\repos\FileExplorerHW\FileExplorerHW\obj\Debug\App.g.cs
+C:\Users\8\source\repos\FileExplorerHW\FileExplorerHW\obj\Debug\FileExplorerHW_MarkupCompile.cache
+C:\Users\8\source\repos\FileExplorerHW\FileExplorerHW\obj\Debug\FileExplorerHW_MarkupCompile.lref
+C:\Users\8\source\repos\FileExplorerHW\FileExplorerHW\obj\Debug\MainWindow.baml
+C:\Users\8\source\repos\FileExplorerHW\FileExplorerHW\obj\Debug\FileExplorerHW.g.resources
+C:\Users\8\source\repos\FileExplorerHW\FileExplorerHW\obj\Debug\FileExplorerHW.Properties.Resources.resources
+C:\Users\8\source\repos\FileExplorerHW\FileExplorerHW\obj\Debug\FileExplorerHW.csproj.GenerateResource.cache
+C:\Users\8\source\repos\FileExplorerHW\FileExplorerHW\obj\Debug\FileExplorerHW.csproj.CoreCompileInputs.cache
+C:\Users\8\source\repos\FileExplorerHW\FileExplorerHW\obj\Debug\FileExplorerHW.exe
+C:\Users\8\source\repos\FileExplorerHW\FileExplorerHW\obj\Debug\FileExplorerHW.pdb
